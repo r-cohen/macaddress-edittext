@@ -16,7 +16,7 @@ Add the dependency to the **Module** gradle file:
 ```gradle
 	dependencies {
 	        ...
-          	compile 'com.github.phearme:macaddress-edittext:1.0.0'
+          	compile 'com.github.phearme:macaddress-edittext:1.0.1'
 	}
 ```
 ## Usage
