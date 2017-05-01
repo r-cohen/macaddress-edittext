@@ -1,6 +1,7 @@
 # MacAddressEditText
-Android EditText component for handling mac address input format
 [![](https://jitpack.io/v/phearme/macaddress-edittext.svg)](https://jitpack.io/#phearme/macaddress-edittext)
+
+Android EditText component for handling mac address input format
 ## Installation
 Add the JitPack repository to your root **Project** gradle file at the end of repositories:
 ```gradle
