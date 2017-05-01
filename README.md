@@ -14,7 +14,7 @@ Add the dependency to the **Module** gradle file:
 ```gradle
 	dependencies {
 	        ...
-          compile 'com.github.phearme:MacAddressEditText:-SNAPSHOT'
+          	compile 'com.github.phearme:MacAddressEditText:-SNAPSHOT'
 	}
 ```
 ## Usage
