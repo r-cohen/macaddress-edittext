@@ -1,4 +1,4 @@
-# MacAddressEditText
+# Mac Address EditText
 [![](https://jitpack.io/v/phearme/macaddress-edittext.svg)](https://jitpack.io/#phearme/macaddress-edittext)
 
 Android EditText component for handling mac address input format
