@@ -9,23 +9,23 @@ Inspired by cimikavac's post: http://cmikavac.net/2014/01/16/android-edittext-au
 ## Installation
 Add the JitPack repository to your root **Project** gradle file at the end of repositories:
 ```gradle
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 Add the dependency to the **Module** gradle file:
 ```gradle
-	dependencies {
-	        ...
-          	compile 'com.github.phearme:macaddress-edittext:1.0.1'
-	}
+dependencies {
+	...
+	compile 'com.github.phearme:macaddress-edittext:1.0.1'
+}
 ```
 ## Usage
 ```xml
-    <com.phearme.macaddressedittext.MacAddressEditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+<com.phearme.macaddressedittext.MacAddressEditText
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content" />
 ```
