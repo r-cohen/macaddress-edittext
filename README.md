@@ -3,7 +3,7 @@
 
 Android EditText component for handling mac address input format
 
-<img src="art/s001.png" />
+<img src="art/s001.png" width="45%" />
 
 Inspired by cimikavac's post: http://cmikavac.net/2014/01/16/android-edittext-automatic-mac-address-formatting/
 ## Installation
