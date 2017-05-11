@@ -3,6 +3,8 @@
 
 Android EditText component for handling mac address input format
 
+<img src="art/001.png" />
+
 Inspired by cimikavac's post: http://cmikavac.net/2014/01/16/android-edittext-automatic-mac-address-formatting/
 ## Installation
 Add the JitPack repository to your root **Project** gradle file at the end of repositories:
