@@ -29,3 +29,5 @@ dependencies {
 	android:layout_width="match_parent"
 	android:layout_height="wrap_content" />
 ```
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" />](https://www.buymeacoffee.com/raphael.cohen)
